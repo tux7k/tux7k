@@ -1,4 +1,5 @@
-### Hi there 👋
+# tuck!
+Hey there! I'm tuck, a hobbyist programmer who currently works on projects @cherries-to
 
 <!--
 **tux7k/tux7k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
